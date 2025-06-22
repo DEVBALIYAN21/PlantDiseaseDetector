@@ -47,7 +47,7 @@ The **Plant Health Detector** is a machine learning-based web application that i
 5. **Set Up Ngrok**:
    - Sign up for a free Ngrok account and obtain an authentication token.
    - Update the Ngrok token in the code: `ngrok.set_auth_token('YOUR_NGROK_AUTH_TOKEN')`.
-   - Replace `'2oRLoSRdeEC1guPWkXsWfGHsDWO_4Vj21BoGVfpJ3P2Kaarbj'` with your actual token.
+  
 
 6. **Run the Notebook**:
    - Execute the cells sequentially to:
